@@ -1,0 +1,12 @@
+obj
+bin
+*.zip
+appsettings.json
+*.db
+StudentAssets
+.vs/ProjectEvaluation/skinet.metadata.v2
+.vs/ProjectEvaluation/skinet.projects.v2
+.vs/skinet/DesignTimeBuild/.dtbcache.v2
+.vs/skinet/FileContentIndex/read.lock
+.vs/skinet/v17/.futdcache.v1
+.vs/skinet/v17/.suo
